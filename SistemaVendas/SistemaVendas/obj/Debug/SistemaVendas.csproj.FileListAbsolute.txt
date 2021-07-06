@@ -1,0 +1,12 @@
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe.config
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.exe
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\bin\Debug\SistemaVendas.pdb
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.AssemblyReference.cache
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.Properties.Resources.resources
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.GenerateResource.cache
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.csproj.CoreCompileInputs.cache
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.exe
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.pdb
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.frmPainelAdmin.resources
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.frmPainelUsuario.resources
+C:\Sistema_Csharp\SistemaVendas\SistemaVendas\obj\Debug\SistemaVendas.UI.frmUsuarios.resources
